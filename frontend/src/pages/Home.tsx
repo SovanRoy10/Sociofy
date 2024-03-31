@@ -34,62 +34,62 @@ const Home = () => {
             PasswordRecovery
           </Link>
         </li>
-        <li style={{ marginBottom: "10px" }}>
+        {/* <li style={{ marginBottom: "10px" }}>
           <Link
             to="/home1"
             style={{ color: "#87CEFA", textDecoration: "none" }}
           >
             Home1
           </Link>
-        </li>
-        <li style={{ marginBottom: "10px" }}>
+        </li> */}
+        {/* <li style={{ marginBottom: "10px" }}>
           <Link
             to="/singlevideo"
             style={{ color: "#87CEFA", textDecoration: "none" }}
           >
             SingleVideo
           </Link>
-        </li>
-        <li style={{ marginBottom: "10px" }}>
+        </li> */}
+        {/* <li style={{ marginBottom: "10px" }}>
           <Link
             to="/stories"
             style={{ color: "#87CEFA", textDecoration: "none" }}
           >
             Stories
           </Link>
-        </li>
-        <li style={{ marginBottom: "10px" }}>
+        </li> */}
+        {/* <li style={{ marginBottom: "10px" }}>
           <Link
             to="/singlestory"
             style={{ color: "#87CEFA", textDecoration: "none" }}
           >
             SingleStory
           </Link>
-        </li>
-        <li style={{ marginBottom: "10px" }}>
+        </li> */}
+        {/* <li style={{ marginBottom: "10px" }}>
           <Link
             to="/singlepost"
             style={{ color: "#87CEFA", textDecoration: "none" }}
           >
             SinglePost
           </Link>
-        </li>
-        <li style={{ marginBottom: "10px" }}>
+        </li> */}
+        {/* <li style={{ marginBottom: "10px" }}>
           <Link
             to="/videofullscreen"
             style={{ color: "#87CEFA", textDecoration: "none" }}
           >
             VideoFullScreen
           </Link>
-        </li>
-        <li style={{ marginBottom: "10px" }}>
+        </li> */}
+        {/* <li style={{ marginBottom: "10px" }}>
           <Link
             to="/events"
             style={{ color: "#87CEFA", textDecoration: "none" }}
           >
             Events
           </Link>
-        </li>
+        </li> */}
         <li style={{ marginBottom: "10px" }}>
           <Link to="/videochat" style={{ color: "#87CEFA", textDecoration: "none" }}>
             VideoChat
@@ -100,36 +100,36 @@ const Home = () => {
             GroupMessage
           </Link>
         </li>
-        <li style={{ marginBottom: "10px" }}>
+        {/* <li style={{ marginBottom: "10px" }}>
           <Link to="/myfriends" style={{ color: "#87CEFA", textDecoration: "none" }}>
             MyFriends
           </Link>
-        </li>
-        <li style={{ marginBottom: "10px" }}>
+        </li> */}
+        {/* <li style={{ marginBottom: "10px" }}>
           <Link to="/userprofile" style={{ color: "#87CEFA", textDecoration: "none" }}>
             UserProfile
           </Link>
-        </li>
-        <li style={{ marginBottom: "10px" }}>
+        </li> */}
+        {/* <li style={{ marginBottom: "10px" }}>
           <Link to="/gallery" style={{ color: "#87CEFA", textDecoration: "none" }}>
             Gallery
           </Link>
-        </li>
-        <li style={{ marginBottom: "10px" }}>
+        </li> */}
+        {/* <li style={{ marginBottom: "10px" }}>
           <Link to="/singleevent" style={{ color: "#87CEFA", textDecoration: "none" }}>
             SingleEvent
           </Link>
-        </li>
-        <li style={{ marginBottom: "10px" }}>
+        </li> */}
+        {/* <li style={{ marginBottom: "10px" }}>
           <Link to="/searchresults" style={{ color: "#87CEFA", textDecoration: "none" }}>
             SearchResults
           </Link>
-        </li>
-        <li style={{ marginBottom: "10px" }}>
+        </li> */}
+        {/* <li style={{ marginBottom: "10px" }}>
           <Link to="/notifications" style={{ color: "#87CEFA", textDecoration: "none" }}>
             Notifications
           </Link>
-        </li>
+        </li> */}
         <li style={{ marginBottom: "10px" }}>
           <Link to="/messages" style={{ color: "#87CEFA", textDecoration: "none" }}>
             Messages
@@ -140,11 +140,11 @@ const Home = () => {
             DirectMessage
           </Link>
         </li>
-        <li style={{ marginBottom: "10px" }}>
+        {/* <li style={{ marginBottom: "10px" }}>
           <Link to="/singlephoto" style={{ color: "#87CEFA", textDecoration: "none" }}>
             SinglePhoto
           </Link>
-        </li>
+        </li> */}
         <li style={{ marginBottom: "10px" }}>
           <Link to="/myprofile" style={{ color: "#87CEFA", textDecoration: "none" }}>
             MyProfile
